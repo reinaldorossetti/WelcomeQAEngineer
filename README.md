@@ -50,12 +50,6 @@ Para testes como Mobile recomendo muito qazando<br>
 https://www.linkedin.com/company/qazando/<br>
 https://www.youtube.com/@QAzando<br>
 
-Vídeos Recomendação para Juniores em Qualidade:<br>
-O que um tester júnior precisa saber? (pleno e sênior já deveriam!)<br>
-https://www.youtube.com/watch?v=SgleIpHdgxs<br>
-Estratégia de Teste de Software - Como fazer<br>
-https://www.youtube.com/watch?v=bmzeuk3zVS4<br>
-
 Recomendações para **Playwright**<br>
 Canal no Whats:<br>
 https://chat.whatsapp.com/FCLHX8qbufY2p86dglE1MV<br>
@@ -72,3 +66,32 @@ https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia
 https://www.juliodelima.com.br/mentoria/ # alavancar suas carreiras em testes de software<br>
 
 
+Os vídeos abaixo dão uma breve introdução sobre testes de software, recomendo a todos assistir:
+TESTE DE SOFTWARE: O que é teste de software?<br>
+https://www.youtube.com/watch?v=exof9oWgIIk<br>
+O que um tester júnior precisa saber? (pleno e sênior já deveriam!)<br>
+https://www.youtube.com/watch?v=SgleIpHdgxs<br>
+Estratégia de Teste de Software - Como fazer<br>
+https://www.youtube.com/watch?v=bmzeuk3zVS4<br>
+TESTER FAZ o que? DESCUBRA<br>
+https://www.youtube.com/watch?v=o2zC6TTJ7tA<br>
+Como um QA deve agir em um time novo:<br>
+https://www.youtube.com/watch?v=jn9tpgT5ln8<br>
+
+Como ser um Analista QA de Sucesso!<br>
+https://www.youtube.com/watch?v=eCmIALYTqPk<br>
+Estimativas de Testes em Times Ágeis<br>
+https://www.youtube.com/watch?v=ozqeWp6YWgg<br>
+Desenvolvimento, teste, desempenho, homologação, pré-produção, produção…<br>
+https://talkingabouttesting.com/2020/02/01/ambientes-de-desenvolvimento-teste-desempenho-homologacao-pre-producao-producao/<br>
+
+**Estratégias de Testes:**
+[Pirâmide de Testes | O que é e pra que serve?
+[https://www.youtube.com/watch?v=hizne8Yc_Dg](https://www.youtube.com/watch?v=Uo_Xgarfxgs)](https://www.youtube.com/watch?v=Uo_Xgarfxgs)
+Pirâmide de Testes - Início Rápido em Teste de Software
+https://www.youtube.com/watch?v=eo0wThxPbAw
+MTC 2017 - Frederico Moreira e Wellington Avelino - Pirâmide de Testes Mobile
+https://www.youtube.com/watch?v=NWt2Wm4G62s
+
+Como aplicar a abordagem Shift-Left Testing - Thoughtworks no Agile Brazil 2021<br>
+https://www.youtube.com/watch?v=7natt7BBlZs<br>
