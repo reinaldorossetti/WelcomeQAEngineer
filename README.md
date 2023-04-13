@@ -85,13 +85,13 @@ https://www.youtube.com/watch?v=ozqeWp6YWgg<br>
 Desenvolvimento, teste, desempenho, homologação, pré-produção, produção…<br>
 https://talkingabouttesting.com/2020/02/01/ambientes-de-desenvolvimento-teste-desempenho-homologacao-pre-producao-producao/<br>
 
-**Estratégias de Testes:**
-[Pirâmide de Testes | O que é e pra que serve?
-[https://www.youtube.com/watch?v=hizne8Yc_Dg](https://www.youtube.com/watch?v=Uo_Xgarfxgs)](https://www.youtube.com/watch?v=Uo_Xgarfxgs)
-Pirâmide de Testes - Início Rápido em Teste de Software
-https://www.youtube.com/watch?v=eo0wThxPbAw
-MTC 2017 - Frederico Moreira e Wellington Avelino - Pirâmide de Testes Mobile
-https://www.youtube.com/watch?v=NWt2Wm4G62s
+**Estratégias de Testes:**<br>
+[Pirâmide de Testes | O que é e pra que serve?<br>
+[https://www.youtube.com/watch?v=hizne8Yc_Dg](https://www.youtube.com/watch?v=Uo_Xgarfxgs)](https://www.youtube.com/watch?v=Uo_Xgarfxgs)<br>
+Pirâmide de Testes - Início Rápido em Teste de Software<br>
+https://www.youtube.com/watch?v=eo0wThxPbAw<br>
+MTC 2017 - Frederico Moreira e Wellington Avelino - Pirâmide de Testes Mobile<br>
+https://www.youtube.com/watch?v=NWt2Wm4G62s<br>
 
 Como aplicar a abordagem Shift-Left Testing - Thoughtworks no Agile Brazil 2021<br>
 https://www.youtube.com/watch?v=7natt7BBlZs<br>
