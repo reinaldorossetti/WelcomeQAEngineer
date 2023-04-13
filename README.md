@@ -87,7 +87,7 @@ https://talkingabouttesting.com/2020/02/01/ambientes-de-desenvolvimento-teste-de
 
 **Estratégias de Testes:**<br>
 [Pirâmide de Testes | O que é e pra que serve?<br>
-[https://www.youtube.com/watch?v=hizne8Yc_Dg](https://www.youtube.com/watch?v=Uo_Xgarfxgs)](https://www.youtube.com/watch?v=Uo_Xgarfxgs)<br>
+https://www.youtube.com/watch?v=hizne8Yc_Dg<br>
 Pirâmide de Testes - Início Rápido em Teste de Software<br>
 https://www.youtube.com/watch?v=eo0wThxPbAw<br>
 MTC 2017 - Frederico Moreira e Wellington Avelino - Pirâmide de Testes Mobile<br>
