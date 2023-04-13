@@ -5,7 +5,7 @@ Referências e Grandes nomes na área de Qualidade:<br>
 Julio de Lima<br>
 Linkedin: https://www.linkedin.com/in/juliodelimas/<br>
 Canal: https://www.youtube.com/channel/UCtyc7euU2VCFrV1WNFFOyXg<br>
-Jose Correia<br>
+José Correia<br>
 Linkedin: https://www.linkedin.com/in/josecorreia/<br>
 Canal: https://www.youtube.com/@IterasysBrasil<br>
 Personi<br>
