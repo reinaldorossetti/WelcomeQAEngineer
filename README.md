@@ -15,7 +15,7 @@ Canal: https://www.youtube.com/@pessonizando<br>
 
 **Grandes Nomes em Automação de Testes:**<br>
 
-Pra Automação tem o Cypress:<br>
+Pra Automação com o Cypress:<br>
 Canal da Agilizei: https://www.youtube.com/@Agilizei<br>
 
 Walmyr Filho:<br>
