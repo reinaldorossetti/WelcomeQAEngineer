@@ -32,7 +32,7 @@ https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/<br>
 Reinaldo foi o criado do Grupo Mestres da Automação<br>
 https://chat.whatsapp.com/FfiBuZ4xjPZ9TL3g33PHSX<br>
 Bruno o criado do grupo Só duvidas de testes ruby<br>
-https://chat.whatsapp.com/Iim7C8ga2S2Cwk0a0Utalk
+https://chat.whatsapp.com/Iim7C8ga2S2Cwk0a0Utalk <br>
 
 Para Automação com Robot Framework: <br>
 Maryana Fernades<br>
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=bmzeuk3zVS4<br>
 Recomendações para Playwright<br>
 Canal no Whats:<br>
 https://chat.whatsapp.com/FCLHX8qbufY2p86dglE1MV<br>
-Cursos na Udemy:
+Cursos na Udemy:<br>
 https://www.udemy.com/course/automacao-para-testes-de-api-com-playwright-e-python/<br>
 https://www.udemy.com/course/dominando-o-playwright/<br>
 
