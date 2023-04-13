@@ -66,7 +66,7 @@ https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia
 https://www.juliodelima.com.br/mentoria/ # alavancar suas carreiras em testes de software<br>
 
 
-Os vídeos abaixo dão uma breve introdução sobre testes de software, recomendo a todos assistir:
+Os vídeos abaixo dão uma breve introdução sobre testes de software, recomendo a todos assistir:<br>
 TESTE DE SOFTWARE: O que é teste de software?<br>
 https://www.youtube.com/watch?v=exof9oWgIIk<br>
 O que um tester júnior precisa saber? (pleno e sênior já deveriam!)<br>
