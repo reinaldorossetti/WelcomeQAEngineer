@@ -1,6 +1,8 @@
 # Welcome QA Engineer
 Kit de Boas Vindas a Área de Qualidade, o que aprender, referências na área, cursos e canais no youtube.
 
+Uma recomendação siga o linkedin, Canais e Faça os Cursos Recomendados.<br>
+
 Referências e Grandes nomes na área de Qualidade:<br>
 Julio de Lima<br>
 Linkedin: https://www.linkedin.com/in/juliodelimas/<br>
@@ -22,8 +24,8 @@ https://www.udemy.com/course/testes-automatizados-com-cypress-basico/<br>
 
 Para Automação com Ruby e Capybara:<br>
 Bruno da Silva Batista, Reinaldo Mateus Rossetti Junior<br>
-Linkedin Reinaldo: https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/
-Linkedin Bruno https://www.linkedin.com/in/bruno-batista-87734464/
+Linkedin Reinaldo: https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/<br>
+Linkedin Bruno https://www.linkedin.com/in/bruno-batista-87734464/<br>
 
 https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/<br>
 https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/<br>
@@ -34,7 +36,7 @@ https://chat.whatsapp.com/Iim7C8ga2S2Cwk0a0Utalk
 
 Para Automação com Robot Framework: <br>
 Maryana Fernades<br>
-Linkedin: https://www.linkedin.com/in/mayfernandes/
+Linkedin: https://www.linkedin.com/in/mayfernandes/<br>
 https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/<br>
 
 Pra testes de Performance o Jmeter e o K6<br>
