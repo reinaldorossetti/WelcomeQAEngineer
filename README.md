@@ -26,6 +26,8 @@ https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/<b
 https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/<br>
 Reinaldo foi o criado do Grupo Mestres da Automação<br>
 https://chat.whatsapp.com/FfiBuZ4xjPZ9TL3g33PHSX<br>
+Bruno o criado do grupo Só duvidas de testes ruby<br>
+https://chat.whatsapp.com/Iim7C8ga2S2Cwk0a0Utalk
 
 Para Automação com Robot Framework: <br>
 Maryana Fernades<br>
