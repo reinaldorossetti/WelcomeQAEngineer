@@ -3,7 +3,7 @@ Kit de Boas Vindas a Área de Qualidade, o que aprender, referências na área, 
 
 Uma recomendação siga o linkedin, Canais e Faça os Cursos Recomendados.<br>
 
-Referências e Grandes nomes na área de Qualidade:<br>
+**Referências e Grandes nomes na área de Qualidade:<br>**
 Julio de Lima<br>
 Linkedin: https://www.linkedin.com/in/juliodelimas/<br>
 Canal: https://www.youtube.com/channel/UCtyc7euU2VCFrV1WNFFOyXg<br>
