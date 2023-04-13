@@ -53,13 +53,20 @@ https://www.youtube.com/@QAzando<br>
 Recomendações para **Playwright**<br>
 Canal no Whats:<br>
 https://chat.whatsapp.com/FCLHX8qbufY2p86dglE1MV<br>
+Grupo no Telegram:<br>
+https://t.me/+VktgQe5tjM5jYWQx
+
 **Cursos:**<br>
 https://www.udemy.com/course/automacao-para-testes-de-api-com-playwright-e-python/<br>
 https://www.udemy.com/course/dominando-o-playwright/<br>
-https://qaxperience.com/cursos/playwright-express/
+https://qaxperience.com/cursos/playwright-express/<br>
+
+Outros Links:<br>
+> "Playwright - Ferramenta de Testes" da 4ALL Tests - Fernando Papito:<br>
+https://youtu.be/M16Vh3vNGWY<br>
+
 
 **Trilhas de Qualidade (Cursos mais completos)**:<br>
-
 https://treinamento.beelab.com.br/programa-qa-completo<br>
 https://cursos.alura.com.br/formacao-carreira-tester-qa<br>
 https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia<br>
