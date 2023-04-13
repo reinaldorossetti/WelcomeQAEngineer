@@ -11,36 +11,36 @@ Canal: https://www.youtube.com/@IterasysBrasil<br>
 Personi<br>
 Canal: https://www.youtube.com/@pessonizando<br>
 
-**Grandes Nomes em Automação de Testes:**
+**Grandes Nomes em Automação de Testes:**<br>
 
-Pra Automação tem o Cypress:
-Canal da Agilizei: https://www.youtube.com/@Agilizei
+Pra Automação tem o Cypress:<br>
+Canal da Agilizei: https://www.youtube.com/@Agilizei<br>
 
-Walmyr Filho:
-Canal: https://www.youtube.com/@TalkingAboutTesting
-https://www.udemy.com/course/testes-automatizados-com-cypress-basico/
+Walmyr Filho:<br>
+Canal: https://www.youtube.com/@TalkingAboutTesting<br>
+https://www.udemy.com/course/testes-automatizados-com-cypress-basico/<br>
 
-Para Automação com Ruby e Capybara:  
-Bruno da Silva Batista, Reinaldo Mateus Rossetti Junior
-https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/
-https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/
-Reinaldo foi o criado do Grupo Mestres da Automação
-https://chat.whatsapp.com/FfiBuZ4xjPZ9TL3g33PHSX
+Para Automação com Ruby e Capybara:<br>
+Bruno da Silva Batista, Reinaldo Mateus Rossetti Junior<br>
+https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/<br>
+https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/<br>
+Reinaldo foi o criado do Grupo Mestres da Automação<br>
+https://chat.whatsapp.com/FfiBuZ4xjPZ9TL3g33PHSX<br>
 
-Para Automação com Robot Framework: 
-Maryana Fernades
-https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/
+Para Automação com Robot Framework: <br>
+Maryana Fernades<br>
+https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/<br>
 
-Pra testes de Performance o Jmeter e o K6
-https://www.udemy.com/course/teste-de-performance-com-k6/?kw=K6&src=sac
+Pra testes de Performance o Jmeter e o K6<br>
+https://www.udemy.com/course/teste-de-performance-com-k6/?kw=K6&src=sac<br>
 
-Para testes como Mobile recomendo muito qazando
-https://www.linkedin.com/company/qazando/
-https://www.youtube.com/@QAzando
+Para testes como Mobile recomendo muito qazando<br>
+https://www.linkedin.com/company/qazando/<br>
+https://www.youtube.com/@QAzando<br>
 
-Vídeos Recomendação para Juniores em Qualidade:
-O que um tester júnior precisa saber? (pleno e sênior já deveriam!)
-https://www.youtube.com/watch?v=SgleIpHdgxs
-Estratégia de Teste de Software - Como fazer
-https://www.youtube.com/watch?v=bmzeuk3zVS4
+Vídeos Recomendação para Juniores em Qualidade:<br>
+O que um tester júnior precisa saber? (pleno e sênior já deveriam!)<br>
+https://www.youtube.com/watch?v=SgleIpHdgxs<br>
+Estratégia de Teste de Software - Como fazer<br>
+https://www.youtube.com/watch?v=bmzeuk3zVS4<br>
 
