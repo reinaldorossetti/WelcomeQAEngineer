@@ -25,7 +25,7 @@ https://www.udemy.com/course/testes-automatizados-com-cypress-basico/<br>
 Para Automação com Ruby e Capybara:<br>
 Bruno da Silva Batista, Reinaldo Mateus Rossetti Junior<br>
 Linkedin Reinaldo: https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/<br>
-Linkedin Bruno https://www.linkedin.com/in/bruno-batista-87734464/<br>
+Linkedin Bruno: https://www.linkedin.com/in/bruno-batista-87734464/<br>
 
 https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/<br>
 https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/<br>
@@ -43,6 +43,8 @@ Pra testes de Performance o Jmeter e o K6<br>
 https://www.udemy.com/course/teste-de-performance-com-k6/?kw=K6&src=sac<br>
 Grupo de K6 no Whats:<br>
 https://chat.whatsapp.com/BRXSi87Acdr9ffJjUtGyJ5<br>
+Playlist "k6" do canal do YouTube do Daniel Jesus: <br>
+https://youtube.com/playlist?list=PLfpYVugeLJLY0vOHt_i45ogdYOk7SXl0I<br>
 
 Para testes como Mobile recomendo muito qazando<br>
 https://www.linkedin.com/company/qazando/<br>
