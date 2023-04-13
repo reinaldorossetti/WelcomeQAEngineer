@@ -64,11 +64,11 @@ https://www.udemy.com/course/automacao-para-testes-de-api-com-playwright-e-pytho
 https://www.udemy.com/course/dominando-o-playwright/<br>
 
 
-**Trilhas de Qualidade (Cursos mais completos)**:
+**Trilhas de Qualidade (Cursos mais completos)**:<br>
 
-https://treinamento.beelab.com.br/programa-qa-completo
-https://cursos.alura.com.br/formacao-carreira-tester-qa
-https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia
-https://www.juliodelima.com.br/mentoria/ # alavancar suas carreiras em testes de software
+https://treinamento.beelab.com.br/programa-qa-completo<br>
+https://cursos.alura.com.br/formacao-carreira-tester-qa<br>
+https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia<br>
+https://www.juliodelima.com.br/mentoria/ # alavancar suas carreiras em testes de software<br>
 
 
