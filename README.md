@@ -41,6 +41,8 @@ https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/<br>
 
 Pra testes de Performance o Jmeter e o K6<br>
 https://www.udemy.com/course/teste-de-performance-com-k6/?kw=K6&src=sac<br>
+Grupo de K6 no Whats:<br>
+https://chat.whatsapp.com/BRXSi87Acdr9ffJjUtGyJ5<br>
 
 Para testes como Mobile recomendo muito qazando<br>
 https://www.linkedin.com/company/qazando/<br>
