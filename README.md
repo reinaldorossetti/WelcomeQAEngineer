@@ -46,6 +46,13 @@ https://chat.whatsapp.com/BRXSi87Acdr9ffJjUtGyJ5<br>
 Playlist "k6" do canal do YouTube do Daniel Jesus: <br>
 https://youtube.com/playlist?list=PLfpYVugeLJLY0vOHt_i45ogdYOk7SXl0I<br>
 
+Jmeter Vídeos da Iterasys:<br>
+https://www.youtube.com/watch?v=1Ww5mRYmcL0&t=3011s<br>
+https://www.youtube.com/watch?v=12gQ3nUK_BY<br>
+
+Jmeter Cursos na Udemy:<br>
+https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/<br>
+
 Para testes como Mobile recomendo muito qazando<br>
 https://www.linkedin.com/company/qazando/<br>
 https://www.youtube.com/@QAzando<br>
