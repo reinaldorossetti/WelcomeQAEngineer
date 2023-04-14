@@ -1,7 +1,7 @@
 # Welcome QA Engineer
 Kit de Boas Vindas a Área de Qualidade, o que aprender, referências na área, cursos e canais no youtube.
 
-Uma recomendação siga o linkedin, Canais e Faça os Cursos Recomendados.<br>
+Uma recomendação siga o linkedin da galera que produz artigos/conhecimento, Canais e Faça os Cursos Recomendados.<br>
 
 **Referências e Grandes nomes na área de Qualidade:<br>**
 Julio de Lima<br>
