@@ -32,9 +32,9 @@ https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby/<b
 https://www.udemy.com/course/testes-automatizados-de-api-com-httparty-rspec/<br>
 
 Artigos do Capybara: 
-https://reiload-88128.medium.com/estudando-os-comandos-do-capybara-ruby-f0f5152847f7
-https://medium.com/automação-com-batista/trabalhando-com-verificações-e-esperas-de-elementos-com-o-capybara-siteprism-e-rspec-parte-ii-6b12a6a39f77
-https://medium.com/automação-com-batista/trabalhando-com-verificações-e-esperas-de-elementos-com-o-capybara-siteprism-e-rspec-parte-ii-6b12a6a39f77
+https://reiload-88128.medium.com/estudando-os-comandos-do-capybara-ruby-f0f5152847f7<br>
+https://medium.com/automação-com-batista/trabalhando-com-verificações-e-esperas-de-elementos-com-o-capybara-siteprism-e-rspec-parte-ii-6b12a6a39f77<br>
+https://medium.com/automação-com-batista/trabalhando-com-verificações-e-esperas-de-elementos-com-o-capybara-siteprism-e-rspec-parte-ii-6b12a6a39f77<br>
 
 Reinaldo foi o criado do Grupo Mestres da Automação<br>
 https://chat.whatsapp.com/FfiBuZ4xjPZ9TL3g33PHSX<br>
