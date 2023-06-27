@@ -59,6 +59,8 @@ https://www.youtube.com/watch?v=12gQ3nUK_BY<br>
 
 Jmeter Cursos na Udemy:<br>
 https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/<br>
+Curso no Youtube:
+https://www.youtube.com/watch?v=817zU_bXh9Y&list=PLUDwpEzHYYLs33uFHeIJo-6eU92IoiMZ7
 
 Para testes como Mobile recomendo muito qazando<br>
 https://www.linkedin.com/company/qazando/<br>
